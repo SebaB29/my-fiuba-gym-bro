@@ -48,7 +48,7 @@ A detailed platform for student wellness. It uses a layered architecture (router
 1. Clone the repository:
    ```bash
    git clone git@github.com:SebaB29/my-fiuba-gym-bro.git
-   cd myFiubaGymBro
+   cd my-fiuba-gym-bro
    ```
 2. Environment Variables:\
    Create a `.env` file in the `backend/` folder:
